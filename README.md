@@ -28,6 +28,7 @@ Todas as estruturas de dados foram implementadas utilizando listas encadeadas e 
 
 ## Estrutura do projeto
 
+```
 figurinhas-da-copa/
 │
 ├── album.py
@@ -42,6 +43,7 @@ figurinhas-da-copa/
 │
 ├── README.md
 └── .gitignore
+```
 
 ## Persistência
 
@@ -60,4 +62,4 @@ git clone https://github.com/paulo-acf/figurinhas_da_copa
 cd figurinhas_da_copa
 
 python main.py
-```bash
+```
