@@ -28,12 +28,20 @@ Todas as estruturas de dados foram implementadas utilizando listas encadeadas e 
 
 ## Estrutura do projeto
 
-- `figurinha.py` – Classe da figurinha.
-- `nodo.py` – Nó utilizado nas estruturas encadeadas.
-- `fila.py` – Implementação da fila FIFO.
-- `album.py` – Gerenciamento do álbum e das figurinhas repetidas.
-- `historico.py` – Registro e processamento das propostas de troca.
-- `main.py` – Menu principal da aplicação.
+figurinhas-da-copa/
+│
+├── album.py
+├── figurinha.py
+├── fila.py
+├── historico.py
+├── nodo.py
+├── main.py
+│
+├── dados_copa_paulo.json
+├── dados_copa_pedro.json
+│
+├── README.md
+└── .gitignore
 
 ## Persistência
 
@@ -44,3 +52,12 @@ Os dados são armazenados em arquivos JSON, permitindo que os álbuns sejam carr
 - Python 3
 - Estruturas de Dados (Lista Encadeada e Fila Encadeada)# figurinhas_da_copa
 
+## Como clonar
+
+```bash
+git clone https://github.com/paulo-acf/figurinhas_da_copa
+
+cd figurinhas_da_copa
+
+python main.py
+```bash
