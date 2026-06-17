@@ -1,0 +1,79 @@
+[
+    {
+        "id": 5,
+        "nome": "eduardo_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_goleiro",
+        "camisa": "camisa_5"
+    },
+    {
+        "id": 6,
+        "nome": "fabio_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_defesa",
+        "camisa": "camisa_6"
+    },
+    {
+        "id": 7,
+        "nome": "geraldo_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_defesa",
+        "camisa": "camisa_7"
+    },
+    {
+        "id": 8,
+        "nome": "heitor_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_defesa",
+        "camisa": "camisa_8"
+    },
+    {
+        "id": 9,
+        "nome": "icaro_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_defesa",
+        "camisa": "camisa_9"
+    },
+    {
+        "id": 10,
+        "nome": "jonas_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_defesa",
+        "camisa": "camisa_10"
+    },
+    {
+        "id": 11,
+        "nome": "kaio_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_meio_campo",
+        "camisa": "camisa_11"
+    },
+    {
+        "id": 12,
+        "nome": "luiz_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_meio_campo",
+        "camisa": "camisa_12"
+    },
+    {
+        "id": 13,
+        "nome": "marcelo_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_meio_campo",
+        "camisa": "camisa_13"
+    },
+    {
+        "id": 14,
+        "nome": "nunes_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_meio_campo",
+        "camisa": "camisa_14"
+    },
+    {
+        "id": 15,
+        "nome": "oscar_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_meio_campo",
+        "camisa": "camisa_15"
+    }
+]

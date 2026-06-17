@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "antonio_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_goleiro",
+        "camisa": "camisa_1"
+    },
+    {
+        "id": 2,
+        "nome": "bruno_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_goleiro",
+        "camisa": "camisa_2"
+    },
+    {
+        "id": 3,
+        "nome": "cesar_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_goleiro",
+        "camisa": "camisa_3"
+    },
+    {
+        "id": 4,
+        "nome": "diego_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_goleiro",
+        "camisa": "camisa_4"
+    },
+    {
+        "id": 5,
+        "nome": "eduardo_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_goleiro",
+        "camisa": "camisa_5"
+    },
+    {
+        "id": 6,
+        "nome": "fabio_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_defesa",
+        "camisa": "camisa_6"
+    },
+    {
+        "id": 7,
+        "nome": "geraldo_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_defesa",
+        "camisa": "camisa_7"
+    },
+    {
+        "id": 8,
+        "nome": "heitor_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_defesa",
+        "camisa": "camisa_8"
+    },
+    {
+        "id": 9,
+        "nome": "icaro_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_defesa",
+        "camisa": "camisa_9"
+    },
+    {
+        "id": 10,
+        "nome": "jonas_alemanha",
+        "pais": "pais_alemanha",
+        "posicao": "posição_defesa",
+        "camisa": "camisa_10"
+    }
+]
